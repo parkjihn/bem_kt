@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bem_kt/static/css/main.bda3c793.css",
+    "main.js": "/bem_kt/static/js/main.0452a69f.js",
+    "index.html": "/bem_kt/index.html",
+    "main.bda3c793.css.map": "/bem_kt/static/css/main.bda3c793.css.map",
+    "main.0452a69f.js.map": "/bem_kt/static/js/main.0452a69f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda3c793.css",
+    "static/js/main.0452a69f.js"
+  ]
+}
