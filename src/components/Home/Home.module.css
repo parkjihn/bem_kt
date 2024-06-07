@@ -1,0 +1,67 @@
+.home {
+    padding: 2em;
+    background-color: #222;
+    color: #fff;
+    border-radius: 8px;
+  }
+  
+  .intro {
+    margin-bottom: 2em;
+  }
+  
+  .title {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  .description {
+    font-size: 1.2em;
+  }
+  
+  .sectionTitle {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  
+  .services,
+  .benefits,
+  .testimonials,
+  .contact {
+    margin-bottom: 2em;
+  }
+  
+  .serviceList,
+  .benefitList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .serviceItem,
+  .benefitItem {
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    background-color: #333;
+    border-radius: 4px;
+  }
+  
+  .testimonial {
+    margin-bottom: 1em;
+    padding: 1em;
+    background-color: #333;
+    border-radius: 4px;
+  }
+  
+  .testimonialText {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+  }
+  
+  .testimonialAuthor {
+    font-size: 0.9em;
+    color: #bbb;
+  }
+  
+  .contactInfo {
+    margin-bottom: 0.5em;
+  }
+  
